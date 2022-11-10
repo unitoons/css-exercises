@@ -1,0 +1,19 @@
+p {
+    background-color: #cd81ab;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#anId {
+    color: #0911f4;
+    font-size: 36px;
+}
+
+.anotherClass {
+    font-size: 24px;
+}
+
+#anotherId {
+    background-color: #5fd96d;
+    font-size: 24px;
+    font-weight: bold;
+}
